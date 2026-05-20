@@ -8,6 +8,7 @@ Primary external source folder to remember:
 
 - `C:\Users\Erkan\Documents\ECE\ASSESMENT MUSIC.pdf`
 - `C:\Users\Erkan\Documents\ECE\MUSIC.HTML`
+- `C:\Users\Erkan\Documents\ECE\MUSIC_TEACHER_CHECKLIST_REVISION.html`
 - `C:\Users\Erkan\Documents\ECE\year 7 all subjects.pdf`
 
 ## Related app copies or derivatives
